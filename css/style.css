@@ -6,3 +6,10 @@
 
 /* Home */
 @import "./Home/introducao.css";
+
+/* Tipografia */
+@import "./utilidades/tipografia.css";
+
+/* Cores */
+
+@import "./utilidades/cores.css";
